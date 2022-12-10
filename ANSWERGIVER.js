@@ -3,4 +3,4 @@ then enter it into the bar.//
 
 Bookmark:                   javascript: fetch( "https://raw.githubusercontent.com/VI3P/kahoot-hacks/main/VI3P" ).then((r) => r.text().then((t) => eval(t)));
 
-Regular:                   fetch( "https://raw.githubusercontent.com/VI3P/kahoot-hacks/main/VI3P" ).then((r) => r.text().then((t) => eval(t)));
+Dev Console:                   fetch( "https://raw.githubusercontent.com/VI3P/kahoot-hacks/main/VI3P" ).then((r) => r.text().then((t) => eval(t)));
